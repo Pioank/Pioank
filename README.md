@@ -79,7 +79,7 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pioank&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pioank&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pioank&layout=compact&hide=html,css&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&cache_seconds=1800)
 
 ---
 
