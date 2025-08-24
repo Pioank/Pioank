@@ -25,15 +25,16 @@ I specialize in **Amazon SES, Amazon Pinpoint, and AWS End User Messaging**, and
 ## 🔥 Highlighted Work
 
 ### ✍️ AWS Blogs (79k+ Views)
-- [Send WhatsApp messages via Amazon Pinpoint (32k views)](https://aws.amazon.com/blogs/messaging-and-targeting/send-whatsapp-messages-via-amazon-pinpoint/)  
-- [Build a Secure One-Time Password Architecture with AWS (4.2k views)](https://aws.amazon.com/blogs/messaging-and-targeting/build-a-secure-one-time-password-architecture-with-aws/)  
-- [Increase your email engagement using AMP (1.5k views)](https://aws.amazon.com/blogs/messaging-and-targeting/increase-your-email-engagement-using-amp/)  
+- [Enhancing Message Reach: An Omnichannel Approach Using WhatsApp, SMS, and Email with AWS](https://aws.amazon.com/blogs/messaging-and-targeting/enhancing-message-reach-an-omnichannel-approach-using-whatsapp-sms-and-email-with-aws/)  
+- [Build a Secure One-Time Password Architecture with AWS](https://aws.amazon.com/blogs/messaging-and-targeting/build-a-secure-one-time-password-architecture-with-aws/)  
+- [Increase your email engagement using AMP](https://aws.amazon.com/blogs/messaging-and-targeting/increase-your-email-engagement-using-amp/)  
 …and [more blogs here](https://aws.amazon.com/blogs/messaging-and-targeting/author/pavlosik/).
 
 ## 🏗️ Open Source Solutions
 
 Here are some of the AWS messaging & engagement solutions I’ve built and shared with the community:
 
+- [📦 **Omnichannel Fallback Solution**](https://github.com/aws-samples/omnichannel-fallback-messaging)
 - [📦 **WhatsApp Voice Message Processing**](https://github.com/Pioank/aws-eum-whatsapp-voice-to-voice-messaging) – End-to-end WhatsApp voice → transcription → voice workflow
 - [📦 **SES / Pinpoint Messages Queuing**](https://github.com/Pioank/communication-developer-services-reference-architectures) – Reference architectures for handling Pinpoint & SES messages at scale
 - [📦 **Amazon Pinpoint Journey Copy Mechanism**](https://github.com/Pioank/pinpoint-journey-copy-mechanism) – Copy Journeys across Pinpoint projects via CloudFormation
@@ -61,9 +62,9 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 - [▶️ **Target Customers with ML (4.3k views)**](https://www.youtube.com/watch?v=Fy9_Narfpf0&t=9s) – Use ML to personalize product targeting with Amazon Pinpoint  
 - [▶️ **Ferrari Fan App Live – Twitch & YouTube (1k views, 271k Twitch)**](https://www.youtube.com/watch?v=-YP_cdKK6ME) – Special live episode on customer engagement  
 - [▶️ **Business SMS 101 (2.3k views)**](https://www.youtube.com/watch?v=SB_HI2-G5r4) – How to send SMS at scale with AWS  
-- [▶️ **Getting Started on Amazon SES (73k views)**](https://www.youtube.com/watch?v=-zs0-bKvkTo) – Beginner’s guide to SES email sending  
+- [▶️ **Getting Started on Amazon SES (73k views)**](https://www.youtube.com/watch?v=4pHhz6YL45I) – Beginner’s guide to SES email sending  
 - [▶️ **Getting Started with Amazon Pinpoint (12k views)**](https://www.youtube.com/watch?v=Mj-L6ziiBsw) – Intro to multichannel engagement with Pinpoint  
-- [▶️ **Choosing the Right IP Type for Email Sending (2.6k views)**](https://www.youtube.com/watch?v=4pHhz6YL45I) – Dedicated vs shared IP explained  
+- [▶️ **Choosing the Right IP Type for Email Sending (2.6k views)**](https://www.youtube.com/watch?v=-zs0-bKvkTo) – Dedicated vs shared IP explained  
 - [▶️ **Introducing Amazon SES Mail Manager (1.8k views)**](https://www.youtube.com/watch?v=WWNMk08fhN8) – Overview of SES Mail Manager features  
 
 
@@ -78,7 +79,7 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 
 ## 🛠️ Tech Stack
 
-`AWS` • `Amazon SES` • `Amazon Pinpoint` • `End User Messaging` • `GenAI (Bedrock)` • `Lambda` • `DynamoDB` • `CDK` • `Python` • `TypeScript` • `React`
+`AWS` • `Amazon SES` • `Amazon Pinpoint` • `AWS End User Messaging` • `GenAI (Bedrock)` • `Lambda` • `DynamoDB` • `CDK` • `Python` • `TypeScript` • `React`
 
 ---
 
