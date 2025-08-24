@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Pavlos Ioannou Katidis
 
-🚀 **Senior Specialist Solutions Architect @ AWS (End User Messaging)**  
+🚀 **Senior Specialist Solutions Architect @ AWS (SES & End User Messaging)**  
 📍 London, UK | 🌍 Building resilient omnichannel messaging & GenAI-powered communication systems  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavlos-ioannou-katidis/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Pioank) 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=amazon+ses+pinpoint+pavlos)
 
 ---
 
 ## 🌟 About Me
 
-I help organizations **scale communication services with AWS**, designing solutions that power **email, SMS, and WhatsApp messaging** at global scale.  
-I specialize in **Amazon SES, Amazon Pinpoint, and AWS End User Messaging**, and I’ve authored **blogs, workshops, solutions, and videos** that have reached **hundreds of thousands of builders worldwide**.  
+I help organizations **scale their communications with AWS**, integrating **Generative AI** into messaging systems and building solutions that drive **customer engagement across email, SMS, and WhatsApp at global scale**.  
+While I specialize in **Amazon SES and AWS End User Messaging**, I also work extensively with **AWS Lambda, Amazon DynamoDB, Amazon Bedrock, Amazon Athena**, and more to deliver end-to-end solutions. Over the years, I’ve authored **blogs, workshops, open-source solutions, and videos** that have reached and empowered **hundreds of thousands of builders worldwide**.  
 
 - 📝 [**14+ AWS Blogs** → 79k+ views](#-aws-blogs-79k-views)  
 - 🎥 [**9+ Technical Videos** → 96k+ views](#-videos-96k-views)  
@@ -76,13 +75,6 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pioank&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pioank&layout=compact&hide=html,css&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&cache_seconds=1800)
-
----
-
 ## 🛠️ Tech Stack
 
 `AWS` • `Amazon SES` • `Amazon Pinpoint` • `AWS End User Messaging` • `GenAI (Bedrock)` • `Lambda` • `DynamoDB` • `CDK` • `Python` • `TypeScript` • `React`
@@ -90,7 +82,7 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 ---
 
 ## 🌍 Let’s Connect
-💼 [LinkedIn](https://www.linkedin.com/in/pavlos-ioannou-katidis/) | 🛠️ [GitHub](https://github.com/Pioank) | 🎥 [YouTube](https://www.youtube.com/results?search_query=amazon+ses+pinpoint+pavlos)
+💼 [LinkedIn](https://www.linkedin.com/in/pavlos-ioannou-katidis/) | 🛠️ [GitHub](https://github.com/Pioank) 
 
 ---
 ✨ _“Helping builders innovate with communication services at scale.”_
