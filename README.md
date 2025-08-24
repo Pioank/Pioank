@@ -14,11 +14,11 @@
 I help organizations **scale communication services with AWS**, designing solutions that power **email, SMS, and WhatsApp messaging** at global scale.  
 I specialize in **Amazon SES, Amazon Pinpoint, and AWS End User Messaging**, and I’ve authored **blogs, workshops, solutions, and videos** that have reached **hundreds of thousands of builders worldwide**.  
 
-- 📝 **14+ AWS Blogs** → 79k+ views  
-- 🎥 **9+ Technical Videos** → 96k+ views  
-- 🛠️ **10+ GitHub Solutions**  
-- 🎤 **Speaker @ AWS re:Invent** (Chalk talks, Workshops, Builder Sessions)  
-- 🏆 **29 AWS Accolades**  
+- 📝 [**14+ AWS Blogs** → 79k+ views](#-aws-blogs-79k-views)  
+- 🎥 [**9+ Technical Videos** → 96k+ views](#-videos-96k-views)  
+- 🎓 [**3 AWS Workshops** → 70k+ participants](#-workshops-70k-participants)  
+- 🛠️ [**10+ GitHub Solutions**](#-open-source-solutions)  
+- 🎤 [**Speaker @ AWS re:Invent**](#-speaking--workshops)    
 
 ---
 
@@ -34,7 +34,7 @@ I specialize in **Amazon SES, Amazon Pinpoint, and AWS End User Messaging**, and
 
 Here are some of the AWS messaging & engagement solutions I’ve built and shared with the community:
 
-- [📦 **Omnichannel Fallback Solution**](https://github.com/aws-samples/omnichannel-fallback-messaging)
+- [📦 **Omnichannel Fallback Solution**](https://github.com/aws-samples/omnichannel-fallback-messaging) - Channel agnostic fall back mechanism using AWS End User Messaging and Amazon SES
 - [📦 **WhatsApp Voice Message Processing**](https://github.com/Pioank/aws-eum-whatsapp-voice-to-voice-messaging) – End-to-end WhatsApp voice → transcription → voice workflow
 - [📦 **SES / Pinpoint Messages Queuing**](https://github.com/Pioank/communication-developer-services-reference-architectures) – Reference architectures for handling Pinpoint & SES messages at scale
 - [📦 **Amazon Pinpoint Journey Copy Mechanism**](https://github.com/Pioank/pinpoint-journey-copy-mechanism) – Copy Journeys across Pinpoint projects via CloudFormation
@@ -67,6 +67,12 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 - [▶️ **Choosing the Right IP Type for Email Sending (2.6k views)**](https://www.youtube.com/watch?v=-zs0-bKvkTo) – Dedicated vs shared IP explained  
 - [▶️ **Introducing Amazon SES Mail Manager (1.8k views)**](https://www.youtube.com/watch?v=WWNMk08fhN8) – Overview of SES Mail Manager features  
 
+## 🛠️ Workshops (70k+ Participants)
+
+- [📝 **Implement Resilient Omnichannel Notifications with AWS** (Nov 2024)](https://catalog.workshops.aws/omnichannel-fallback-messaging/en-US) – AWS End User Messaging workshop (EUM)  
+- [📝 **Send SMS using Amazon Pinpoint** (Oct 2023)](https://catalog.workshops.aws/build-sms-program/en-US) – Hands-on SMS workshop  
+- [📝 **Building Customer Experiences with Amazon Pinpoint** (Sep 2021) – *Deprecated*](https://catalog.workshops.aws/amazon-pinpoint-customer-experience)  
+- [📝 **Use ML Speech Analytics to Obtain Customer Consent** (Oct 2022) – *Deprecated*](https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent/en-US)  
 
 ---
 
