@@ -62,8 +62,8 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 - [▶️ **Ferrari Fan App Live – Twitch & YouTube (1k views, 271k Twitch)**](https://www.youtube.com/watch?v=-YP_cdKK6ME) – Special live episode on customer engagement  
 - [▶️ **Business SMS 101 (2.3k views)**](https://www.youtube.com/watch?v=SB_HI2-G5r4) – How to send SMS at scale with AWS  
 - [▶️ **Getting Started on Amazon SES (73k views)**](https://www.youtube.com/watch?v=-zs0-bKvkTo) – Beginner’s guide to SES email sending  
-- [▶️ **Getting Started with Amazon Pinpoint (12k views)**](https://www.youtube.com/watch?v=4pHhz6YL45I) – Intro to multichannel engagement with Pinpoint  
-- [▶️ **Choosing the Right IP Type for Email Sending (2.6k views)**](https://www.youtube.com/watch?v=Mj-L6ziiBsw) – Dedicated vs shared IP explained  
+- [▶️ **Getting Started with Amazon Pinpoint (12k views)**](https://www.youtube.com/watch?v=Mj-L6ziiBsw) – Intro to multichannel engagement with Pinpoint  
+- [▶️ **Choosing the Right IP Type for Email Sending (2.6k views)**](https://www.youtube.com/watch?v=4pHhz6YL45I) – Dedicated vs shared IP explained  
 - [▶️ **Introducing Amazon SES Mail Manager (1.8k views)**](https://www.youtube.com/watch?v=WWNMk08fhN8) – Overview of SES Mail Manager features  
 
 
