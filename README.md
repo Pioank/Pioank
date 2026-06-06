@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavlos Ioannou Katidis
 
-🚀 **Senior Specialist Solutions Architect @ AWS (SES & End User Messaging)**  
+🚀 **Senior Applied AI Solutions Architect @ AWS**  
 📍 London, UK | 🌍 Building resilient omnichannel messaging & GenAI-powered communication systems  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavlos-ioannou-katidis/) 
@@ -10,8 +10,14 @@
 
 ## 🌟 About Me
 
-I help organizations **scale their communications with AWS**, integrating **Generative AI** into messaging systems and building solutions that drive **customer engagement across email, SMS, and WhatsApp at global scale**.  
-While I specialize in **Amazon SES and AWS End User Messaging**, I also work extensively with **AWS Lambda, Amazon DynamoDB, Amazon Bedrock, Amazon Athena**, and more to deliver end-to-end solutions. Over the years, I’ve authored **blogs, workshops, open-source solutions, and videos** that have reached and empowered **hundreds of thousands of builders worldwide**.  
+I help organizations build and scale Generative AI and agentic AI solutions on AWS, with a focus on AI agents, multi-agent systems, and customer-facing experiences powered by Amazon Bedrock and Amazon Bedrock AgentCore.
+
+As part of the AWS AI/ML Technical Field Community (TFC), I work with customers to design and deploy solutions including e-commerce assistants, campaign management agents, event support assistants, product discovery experiences, and internal AI-powered tools.
+
+I also specialize in AWS Communication Developer Services, including Amazon SES and AWS End User Messaging, helping customers deliver intelligent customer engagement across email, SMS, WhatsApp, and web channels at global scale.
+
+I have authored numerous AWS blogs, workshops, videos, and open-source solutions that have helped hundreds of thousands of builders adopt cloud, messaging, and AI technologies.
+
 
 - 📝 [**14+ AWS Blogs** → 79k+ views](#-aws-blogs-79k-views)  
 - 🎥 [**9+ Technical Videos** → 96k+ views](#-videos-96k-views)  
@@ -33,6 +39,8 @@ While I specialize in **Amazon SES and AWS End User Messaging**, I also work ext
 
 Here are some of the AWS messaging & engagement solutions I’ve built and shared with the community:
 
+- [📦 **SES Insights Agent**](https://github.com/aws-samples/sample-ses-insights-agent) – Agentic AI solution for analyzing Amazon SES metrics, email deliverability, engagement trends, and campaign performance using Amazon Bedrock and Amazon SES data.
+- [📦 **Amazon SES Campaign Manager**](https://github.com/aws-samples/sample-amazon-ses-campaign-manager) – Agent-powered email campaign management platform for audience segmentation, campaign creation, scheduling, content generation, and performance analysis using Amazon SES and Amazon Bedrock.
 - [📦 **Omnichannel Fallback Solution**](https://github.com/aws-samples/omnichannel-fallback-messaging) - Channel agnostic fall back mechanism using AWS End User Messaging and Amazon SES
 - [📦 **WhatsApp Voice Message Processing**](https://github.com/Pioank/aws-eum-whatsapp-voice-to-voice-messaging) – End-to-end WhatsApp voice → transcription → voice workflow
 - [📦 **SES / Pinpoint Messages Queuing**](https://github.com/Pioank/communication-developer-services-reference-architectures) – Reference architectures for handling Pinpoint & SES messages at scale
