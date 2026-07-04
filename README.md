@@ -22,7 +22,7 @@ I have authored numerous AWS blogs, workshops, videos, and open-source solutions
 - 📝 [**14+ AWS Blogs** → 79k+ views](#-aws-blogs-79k-views)  
 - 🎥 [**9+ Technical Videos** → 96k+ views](#-videos-96k-views)  
 - 🎓 [**3 AWS Workshops** → 70k+ participants](#-workshops-70k-participants)  
-- 🛠️ [**10+ GitHub Solutions**](#-open-source-solutions)  
+- 🛠️ [**11+ GitHub Solutions**](#-open-source-solutions)  
 - 🎤 [**Speaker @ AWS re:Invent**](#-speaking--workshops)    
 
 ---
@@ -39,6 +39,7 @@ I have authored numerous AWS blogs, workshops, videos, and open-source solutions
 
 Here are some of the AWS messaging & engagement solutions I’ve built and shared with the community:
 
+- [📦 **Agentic Campaign Manager**](https://github.com/aws-samples/sample-agentic-campaign-manager) – Multi-agent email marketing platform for managing the full campaign lifecycle, including customer segmentation, template creation, campaign scheduling, sending, engagement analytics, and natural-language campaign operations using Amazon Bedrock AgentCore, Strands Agents SDK, AG-UI, Amazon SES, Athena, and DynamoDB.
 - [📦 **SES Insights Agent**](https://github.com/aws-samples/sample-ses-insights-agent) – Agentic AI solution for analyzing Amazon SES metrics, email deliverability, engagement trends, and campaign performance using Amazon Bedrock and Amazon SES data.
 - [📦 **Amazon SES Campaign Manager**](https://github.com/aws-samples/sample-amazon-ses-campaign-manager) – Agent-powered email campaign management platform for audience segmentation, campaign creation, scheduling, content generation, and performance analysis using Amazon SES and Amazon Bedrock.
 - [📦 **Omnichannel Fallback Solution**](https://github.com/aws-samples/omnichannel-fallback-messaging) - Channel agnostic fall back mechanism using AWS End User Messaging and Amazon SES
@@ -85,12 +86,10 @@ Here are some of the AWS messaging & engagement solutions I’ve built and share
 
 ## 🛠️ Tech Stack
 
-`AWS` • `Amazon SES` • `Amazon Pinpoint` • `AWS End User Messaging` • `GenAI (Bedrock)` • `Lambda` • `DynamoDB` • `CDK` • `Python` • `TypeScript` • `React`
+`AWS` • `Amazon SES` • `Amazon Pinpoint` • `AWS End User Messaging` • `Amazon Bedrock Agentcore` • `Amazon Bedrock Knowledgebases` • `AWS Lambda` • `Amazon DynamoDB` • `RAG` • `CDK` • `Python` • `TypeScript` • `React`
 
 ---
 
 ## 🌍 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/pavlos-ioannou-katidis/) | 🛠️ [GitHub](https://github.com/Pioank) 
 
----
-✨ _“Helping builders innovate with communication services at scale.”_
